@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- login_page strings -->
+
+    <string name="app_name">Page 1</string>
+    <string name="ek_img_content">ExportKit Image</string>
+    <string name="sign_in_sign_in_to_your_account_string">Sign InSign In To your Account</string>
+    <string name="full_names_string">Email Address</string>
+    <string name="full_names_ek1_string">Password</string>
+    <string name="sign_up_string">Sign up</string>
+    <string name="or_sign_up_with_string">or sign up with</string>
+    <string name="forgot_password__string">Forgot Password?</string>
+    <string name="don_t_have_an_account__signup_string">Dont have an account? SignUp</string>
+</resources>

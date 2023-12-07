@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "74120333137",
+    "project_id": "with-dignity-africa",
+    "storage_bucket": "with-dignity-africa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74120333137:android:56da845b15150cf0417570",
+        "android_client_info": {
+          "package_name": "com.example.withdignityafrica"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClyaJkbbJHPu0y27Qj14A3IQlHW0S3OLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
